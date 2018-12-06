@@ -1,0 +1,5 @@
+dist
+tmp
+temp
+node_modules
+*.env
